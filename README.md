@@ -1,18 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> <img src="https://64.media.tumblr.com/445f7a931705a34d0dc77c718dbb7227/tumblr_mxc150VLx21sfkw0no1_400.gifv" width="30px">, </h1>
+<h1 align="center"> <img src="https://thumbs.gfycat.com/GlaringAlienatedIberianchiffchaff-size_restricted.gif" width="64px">, </h1>
 <h3 align="center">sazy#5556</h3>
 
 
-## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Selfbot] A discord bot multifunctional**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, php**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **shinmodular@gmail.com**
+- 📫 OSWE CompTIA CEH eJPT**
 
 
 ## 🚀 Languages and Tools:
