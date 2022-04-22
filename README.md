@@ -5,7 +5,7 @@
 
 
 
-- 📫 OSWE CompTIA CEH eJPT**
+
 
 
 ## 🚀 Languages and Tools:
