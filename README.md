@@ -2,6 +2,8 @@
 
 <h1 align="center"> <img src="https://thumbs.gfycat.com/GlaringAlienatedIberianchiffchaff-size_restricted.gif" width="64px" </h1>
 <h3 align="center">luke trec hawry#0001</h3>
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/987415612588433448)](https://discord.com/users/798374065030561793) 
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 
 
